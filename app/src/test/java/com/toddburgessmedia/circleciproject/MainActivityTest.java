@@ -21,8 +21,10 @@ public class MainActivityTest {
     }
 
     @Test
-    public void testFun () {
-        int x,y;
-        x = 0;y=4;
-        assert (x<y);
+    public void testFun() {
+        int x, y;
+        x = 0;
+        y = 4;
+        assert (x < y);
     }
+}
