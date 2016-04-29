@@ -26,4 +26,3 @@ public class MainActivityTest {
         x = 0;y=4;
         assert (x<y);
     }
-}
