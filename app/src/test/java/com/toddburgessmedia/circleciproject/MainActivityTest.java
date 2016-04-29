@@ -24,6 +24,6 @@ public class MainActivityTest {
     public void testFun () {
         int x,y;
         x = 0;y=4;
-        assert (x>y);
+        assert (x<y);
     }
 }
